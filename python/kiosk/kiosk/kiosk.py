@@ -6,7 +6,6 @@ print ("what is your work email")
 email = input()
 print ("what is your access level")
 level = input()
-print ("")
 
 print ("+------------------------------------+")
 print ("|             APEX ENTERTAINMENT PASS|")
